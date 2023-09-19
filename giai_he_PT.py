@@ -12,4 +12,7 @@ X = np.dot(A1,B)
 print('Nghiem cua he:',X)
 print("hhhhhhhhhhhhhhhhhhhhh")
 print("nnnnnnnnnnnnnnnnnnnn")
+print("ngggggggggggggggggggg")
+
+print (1342)
 
